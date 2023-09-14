@@ -1,0 +1,20 @@
+{
+  "name": "vanilla-parcel-2",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "parcel ./src/index.html",
+    "build": "parcel build ./src/index.html"
+  },
+  "devDependencies": {
+    "parcel": "^2.0.0",
+    "process": "^0.11.10"
+  },
+  "keywords": [],
+  "dependencies": {
+    "@types/react": "18.0.29",
+    "@types/react-dom": "18.0.11",
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
+  }
+}
