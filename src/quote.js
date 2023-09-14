@@ -150,7 +150,7 @@ const quotes = [
     author: "Ralph Waldo Emerson"
   },
   {
-    quote: "Go confidently in the direction of your dreams.  Live the life you have imagined.",
+    quote: "Go confidently in the direction of your dreams. Live the life you have imagined.",
     author: "Henry David Thoreau"
   },
   {
@@ -338,7 +338,7 @@ const quotes = [
     author: "Dalai Lama"
   },
   {
-    quote: "You can’t use up creativity.  The more you use, the more you have.",
+    quote: "You can’t use up creativity. The more you use, the more you have.",
     author: "Maya Angelou"
   },
   {
@@ -398,8 +398,8 @@ const quotes = [
     author: "Benjamin Franklin"
   },
   {
-    quote: "Nothing is impossible, the word itself says, \"I’m possible!\”",
-    author: "–Audrey Hepburn"
+    quote: "Nothing is impossible, the word itself says, “I’m possible!”",
+    author: "Audrey Hepburn"
   },
   {
     quote: "The only way to do great work is to love what you do.",
@@ -410,3 +410,5 @@ const quotes = [
     author: "Zig Ziglar"
   }
 ];
+
+export default quotes;
